@@ -1,0 +1,7 @@
+CS 227      411111              Data Structures and Algorithms
+CS 414      911111              Systems Design
+CS 405      121111              Computer Hardware Maintenance
+BI 101-1    121111              New Testament Survey
+SP 101-3    541111              Fundamentals of Speech
+SP 410-2    511111              Oral Communication in the Professions
+BW 101      131111              Underwater Basket Weaving
